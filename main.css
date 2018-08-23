@@ -1,0 +1,30 @@
+body{
+    transition: background-color 0.2s ease,
+                color 0.7s ease;
+}
+#container{
+    margin: 200px auto;
+    width: 500px;
+}
+
+.colorInputs{
+    display: flex;
+}
+.colorInputs button{
+    outline: none;
+    border: none;
+    background-color: #3eac81;
+    color: #fff;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+.colorInputs label{
+    margin-right: 30px;
+}
+
+
+.rgbSlider{
+    height: 255px;
+    width: 100%;
+    background-color: #333;
+}
