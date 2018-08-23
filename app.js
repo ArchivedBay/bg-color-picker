@@ -1,3 +1,5 @@
+// Author: Skyelah Bay 
+
 let hexColor = document.getElementById('colorChoice'),   // the colour-picker input
     button = document.getElementById('sendInputButton'), // the 'change background' button
     slider = document.getElementById('shadeSlider');     // the slider input
